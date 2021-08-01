@@ -7,3 +7,5 @@ https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020CrowdStrikeGlobalThre
 https://www.crowdstrike.com/blog/double-trouble-ransomware-data-leak-extortion-part-2/
 
 https://www.crowdstrike.com/blog/wizard-spider-adversary-update/
+
+https://www.youtube.com/watch?v=a5osvPQhM5U
