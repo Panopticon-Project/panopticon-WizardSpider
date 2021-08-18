@@ -11,3 +11,5 @@ https://www.crowdstrike.com/blog/wizard-spider-adversary-update/
 https://www.youtube.com/watch?v=a5osvPQhM5U
 
 https://blog.malwarebytes.com/reports/2021/08/analysts-strongly-believe-the-russian-state-colludes-with-ransomware-gangs/
+
+https://www.securityweek.com/new-ransomware-diavol-linked-notorious-cybercrime-gang
