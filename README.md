@@ -19,3 +19,5 @@ https://www.cisecurity.org/blog/trickbot-not-your-average-hat-trick-a-malware-wi
 https://www.fireeye.com/blog/threat-research/2019/01/a-nasty-trick-from-credential-theft-malware-to-business-disruption.html
 
 https://eclypsium.com/2020/12/03/trickbot-now-offers-trickboot-persist-brick-profit/#background
+
+https://assets.sentinelone.com/c/sentinel-one-mexec-r?x=P42eqA
