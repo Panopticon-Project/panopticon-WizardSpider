@@ -23,3 +23,5 @@ https://eclypsium.com/2020/12/03/trickbot-now-offers-trickboot-persist-brick-pro
 https://assets.sentinelone.com/c/sentinel-one-mexec-r?x=P42eqA
 
 https://community.riskiq.com/article/c88cf7e6
+
+https://argonsys.com/microsoft-cloud/library/analyzing-attacks-that-exploit-the-cve-2021-40444-mshtml-vulnerability/
