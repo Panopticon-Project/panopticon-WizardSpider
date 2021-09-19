@@ -21,3 +21,5 @@ https://www.fireeye.com/blog/threat-research/2019/01/a-nasty-trick-from-credenti
 https://eclypsium.com/2020/12/03/trickbot-now-offers-trickboot-persist-brick-profit/#background
 
 https://assets.sentinelone.com/c/sentinel-one-mexec-r?x=P42eqA
+
+https://community.riskiq.com/article/c88cf7e6
