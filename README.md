@@ -27,3 +27,5 @@ https://community.riskiq.com/article/c88cf7e6
 https://argonsys.com/microsoft-cloud/library/analyzing-attacks-that-exploit-the-cve-2021-40444-mshtml-vulnerability/
 
 https://www.mandiant.com/resources/fin12-ransomware-intrusion-actor-pursuing-healthcare-targets
+
+https://www.securityweek.com/russian-man-extradited-us-role-trickbot-malware-development - possible
