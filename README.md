@@ -31,3 +31,5 @@ https://www.mandiant.com/resources/fin12-ransomware-intrusion-actor-pursuing-hea
 https://www.securityweek.com/russian-man-extradited-us-role-trickbot-malware-development - possible
 
 https://www.securityweek.com/latvian-woman-charged-us-role-cybercrime-group - possible
+
+https://www.securityweek.com/many-ransomware-attacks-ot-organizations-involved-ryuk-ibm
