@@ -33,3 +33,5 @@ https://www.securityweek.com/russian-man-extradited-us-role-trickbot-malware-dev
 https://www.securityweek.com/latvian-woman-charged-us-role-cybercrime-group - possible
 
 https://www.securityweek.com/many-ransomware-attacks-ot-organizations-involved-ryuk-ibm
+
+https://www.securityweek.com/emotet-using-trickbot-get-back-game ??
