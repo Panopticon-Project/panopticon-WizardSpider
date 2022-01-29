@@ -1,5 +1,7 @@
 # panopticon-WizardSpider
 
+https://www.bleepingcomputer.com/news/security/taiwanese-apple-and-tesla-contractor-hit-by-conti-ransomware/
+
 https://www.analyst1.com/blog/ransom-mafia-analysis-of-the-worlds-first-ransomware-cartel
 
 https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020CrowdStrikeGlobalThreatReport.pdf
