@@ -1,5 +1,7 @@
 # panopticon-WizardSpider
 
+https://www.wired.com/story/trickbot-malware-group-internal-messages/
+
 https://www.bleepingcomputer.com/news/security/taiwanese-apple-and-tesla-contractor-hit-by-conti-ransomware/
 
 https://www.analyst1.com/blog/ransom-mafia-analysis-of-the-worlds-first-ransomware-cartel
