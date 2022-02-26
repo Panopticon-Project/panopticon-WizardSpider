@@ -45,3 +45,5 @@ https://www.anomali.com/blog/mummy-spiders-emotet-malware-is-back-after-a-year-h
 https://research.checkpoint.com/2021/when-old-friends-meet-again-why-emotet-chose-trickbot-for-rebirth/
 
 https://www.securityweek.com/conti-ransomware-acquires-trickbot-it-thrives-amid-crackdowns - I had both conti and trickbot as Wizard Spider months before this??
+
+https://therecord.media/russia-or-ukraine-hacking-groups-take-sides/
