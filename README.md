@@ -47,3 +47,5 @@ https://research.checkpoint.com/2021/when-old-friends-meet-again-why-emotet-chos
 https://www.securityweek.com/conti-ransomware-acquires-trickbot-it-thrives-amid-crackdowns - I had both conti and trickbot as Wizard Spider months before this??
 
 https://therecord.media/russia-or-ukraine-hacking-groups-take-sides/
+
+https://www.wired.com/story/conti-ransomware-russia
