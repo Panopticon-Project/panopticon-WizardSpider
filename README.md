@@ -49,3 +49,5 @@ https://www.securityweek.com/conti-ransomware-acquires-trickbot-it-thrives-amid-
 https://therecord.media/russia-or-ukraine-hacking-groups-take-sides/
 
 https://www.wired.com/story/conti-ransomware-russia
+
+https://www.wired.com/story/conti-leaks-ransomware-work-life/
