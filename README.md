@@ -51,3 +51,5 @@ https://therecord.media/russia-or-ukraine-hacking-groups-take-sides/
 https://www.wired.com/story/conti-ransomware-russia
 
 https://www.wired.com/story/conti-leaks-ransomware-work-life/
+
+https://www.securityweek.com/ransomware-gang-leaks-files-stolen-industrial-giant-parker-hannifin
