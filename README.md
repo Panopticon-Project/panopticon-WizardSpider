@@ -53,3 +53,5 @@ https://www.wired.com/story/conti-ransomware-russia
 https://www.wired.com/story/conti-leaks-ransomware-work-life/
 
 https://www.securityweek.com/ransomware-gang-leaks-files-stolen-industrial-giant-parker-hannifin
+
+https://www.washingtonpost.com/politics/2022/03/18/11-big-takeaways-conti-ransomware-leaks/
