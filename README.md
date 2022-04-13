@@ -57,3 +57,7 @@ https://www.securityweek.com/ransomware-gang-leaks-files-stolen-industrial-giant
 https://www.washingtonpost.com/politics/2022/03/18/11-big-takeaways-conti-ransomware-leaks/
 
 https://www.securityweek.com/ukrainian-security-researcher-leaks-newer-conti-ransomware-source-code
+
+https://therecord.media/panasonic-february-ransomware-attack-only-affected-canada-branch/
+
+https://www.akamai.com/blog/security/conti-hacker-manual-reviewed - says the manuals cover nothing on initial access, but there were "internet crawlers". Is that how they are getting initial access, scanning for vulns on the perimeter of orgs?
