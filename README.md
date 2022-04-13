@@ -61,3 +61,5 @@ https://www.securityweek.com/ukrainian-security-researcher-leaks-newer-conti-ran
 https://therecord.media/panasonic-february-ransomware-attack-only-affected-canada-branch/
 
 https://www.akamai.com/blog/security/conti-hacker-manual-reviewed - says the manuals cover nothing on initial access, but there were "internet crawlers". Is that how they are getting initial access, scanning for vulns on the perimeter of orgs?
+
+https://www.securityweek.com/high-end-tools-manufacturer-snap-discloses-data-breach
