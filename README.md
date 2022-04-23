@@ -65,3 +65,5 @@ https://www.akamai.com/blog/security/conti-hacker-manual-reviewed - says the man
 https://www.securityweek.com/high-end-tools-manufacturer-snap-discloses-data-breach
 
 https://therecord.media/conti-ransomware-attack-was-aimed-at-destabilizing-government-transition-costa-rican-president-says/
+
+https://www.securityweek.com/conti-ransomware-gang-claims-cyberattack-wind-turbine-giant-nordex
