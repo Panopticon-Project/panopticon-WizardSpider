@@ -101,3 +101,49 @@ https://therecord.media/conti-leaks-the-panama-papers-of-ransomware/
 https://www.securityweek.com/us-warns-conti-ransomware-attacks-gang-deals-leak-fallout
 
 https://www.cisa.gov/uscert/ncas/current-activity/2022/03/09/updated-conti-ransomware
+
+---
+
+from today's research
+
+1. Infosecurity Magazine. "Police Reportedly Arrest Egregor Ransomware Members" Accessed February 16,2021 https://www.infosecurity-magazine.com/news/police-arrest-egregor-ransomware/
+
+2. CrowdStrike. “Ransomware + Data Leak Extortion: Origins and Adversaries, Pt. 1,” September 24, 2020. https://www.crowdstrike.com/blog/double-trouble-ransomware-data-leak-extortion-part-1/.
+
+3. CrowdStrike. "Double Trouble: Ransomware with Data Leak Extortion, Part 2” Accessed March 3, 2021. https://www.crowdstrike.com/blog/double-trouble-ransomware-data-leak-extortion-part-2/
+
+4. BleepingComputer. "Ransomware gangs team up to form extortion cartel." https://www.bleepingcomputer.com/news/security/ransomware-gangs-team-up-to-form-extortion-cartel/
+
+5. BleepingComputer. “Canon Publicly Confirms August Ransomware Attack, Data Theft.” Accessed March 24, 2021. https://www.bleepingcomputer.com/news/security/canon-publicly-confirms-august-ransomware-attack-data-theft/.
+
+6. BleepingComputer. “SunCrypt Ransomware Sheds Light on the Maze Ransomware Cartel.” Accessed March 24, 2021. https://www.bleepingcomputer.com/news/security/suncrypt-ransomware-sheds-light-on-the-maze-ransomware-cartel/.
+
+7. SentinelLabs. “Egregor RaaS Continues the Chaos with Cobalt Strike and Rclone,” November 25, 2020. https://labs.sentinelone.com/egregor-raas-continues-the-chaos-with-cobalt-strike-and-rclone/.
+
+8. “Ragnar Locker Ransomware Deploys Virtual Machine to Dodge Security.” Sophos News (blog), May 21, 2020. https://news.sophos.com/en-us/2020/05/21/ragnar-locker-ransomware-deploys-virtual-machine-to-dodge-security/.
+
+9. “Ransomware Group Turns to Facebook Ads — Krebs on Security.” Accessed March 24, 2021. https://krebsonsecurity.com/2020/11/ransomware-group-turns-to-facebook-ads/.
+
+10. BleepingComputer. “Ragnar Locker Ransomware Targets MSP Enterprise Support Tools.” Accessed March 24, 2021. https://www.bleepingcomputer.com/news/security/ragnar-locker-ransomware-targets-msp-enterprise-support-tools/.
+
+11. “2020 Global Threat Report.” Cybersecurity Report. Crowdstrike, 2020. https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020CrowdStrikeGlobalThreatReport.pdf.
+
+12. BleepingComputer. "Ryuk ransomware now self-spreads to other Windows LAN devices." https://www.bleepingcomputer.com/news/security/ryuk-ransomware-now-self-spreads-to-other-windows-lan-devices/
+
+13. “LockBit Ransomware Analysis: Rapid Detonation Using a Single Compromised Credential.” Accessed March 26, 2021. https://www.darktrace.com/en/blog/lock-bit-ransomware-analysis-rapid-detonation-using-a-single-compromised-credential.
+
+14. Gallagher, Sean. “LockBit Uses Automated Attack Tools to Identify Tasty Targets.” Sophos News (blog), October 21, 2020. https://news.sophos.com/en-us/2020/10/21/lockbit-attackers-uses-automated-attack-tools-to-identify-tasty-targets/.
+
+15. The DFIR Report. “Lockbit Ransomware, Why You No Spread?,” June 10 2020. https://thedfirreport.com/2020/06/10/lockbit-ransomware-why-you-no-spread/.
+
+16. BleepingComputer. “SunCrypt Ransomware Sheds Light on the Maze Ransomware Cartel.” Accessed March 26, 2021. https://www.bleepingcomputer.com/news/security/suncrypt-ransomware-sheds-light-on-the-maze-ransomware-cartel/.
+
+17. BleepingComputer. “Maze ransomware shuts down operations, denies creating cartel.” Accessed March 19, 2021. https://www.bleepingcomputer.com/news/security/maze-ransomware-shuts-down-operations-denies-creating-cartel/
+
+https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020CrowdStrikeGlobalThreatReport.pdf
+
+https://www.bleepingcomputer.com/news/security/ryuk-ransomware-now-self-spreads-to-other-windows-lan-devices/
+
+https://www.bleepingcomputer.com/news/security/maze-ransomware-shuts-down-operations-denies-creating-cartel/
+
+https://analyst1.com/file-assets/RANSOM-MAFIA-ANALYSIS-OF-THE-WORLD%E2%80%99S-FIRST-RANSOMWARE-CARTEL.pdf - here
