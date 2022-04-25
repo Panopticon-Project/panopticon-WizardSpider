@@ -147,3 +147,5 @@ https://www.bleepingcomputer.com/news/security/ryuk-ransomware-now-self-spreads-
 https://www.bleepingcomputer.com/news/security/maze-ransomware-shuts-down-operations-denies-creating-cartel/
 
 https://analyst1.com/file-assets/RANSOM-MAFIA-ANALYSIS-OF-THE-WORLD%E2%80%99S-FIRST-RANSOMWARE-CARTEL.pdf - here
+
+https://www.securityweek.com/cyberattack-causes-chaos-costa-rica-government-systems
