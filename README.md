@@ -102,6 +102,8 @@ https://www.securityweek.com/us-warns-conti-ransomware-attacks-gang-deals-leak-f
 
 https://www.cisa.gov/uscert/ncas/current-activity/2022/03/09/updated-conti-ransomware
 
+https://therecord.media/conti-ransomware-cripples-systems-of-electricity-manager-in-costa-rican-town/
+
 ---
 
 from today's research
