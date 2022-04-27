@@ -104,6 +104,8 @@ https://www.cisa.gov/uscert/ncas/current-activity/2022/03/09/updated-conti-ranso
 
 https://therecord.media/conti-ransomware-cripples-systems-of-electricity-manager-in-costa-rican-town/
 
+https://www.securityweek.com/conti-ransomware-activity-surges-despite-exposure-groups-operations
+
 ---
 
 from today's research
