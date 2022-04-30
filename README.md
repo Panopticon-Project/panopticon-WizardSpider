@@ -106,6 +106,7 @@ https://therecord.media/conti-ransomware-cripples-systems-of-electricity-manager
 
 https://www.securityweek.com/conti-ransomware-activity-surges-despite-exposure-groups-operations
 
+https://www.scmagazine.com/news/ransomware/bumblebee-malware-emerges-as-replacement-to-conti-gangs-bazalloader%EF%BF%BC
 ---
 
 from today's research
