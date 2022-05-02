@@ -154,3 +154,5 @@ https://www.bleepingcomputer.com/news/security/maze-ransomware-shuts-down-operat
 https://analyst1.com/file-assets/RANSOM-MAFIA-ANALYSIS-OF-THE-WORLD%E2%80%99S-FIRST-RANSOMWARE-CARTEL.pdf - here
 
 https://www.securityweek.com/cyberattack-causes-chaos-costa-rica-government-systems
+
+https://www.securityweek.com/new-black-basta-ransomware-possibly-linked-conti-group
