@@ -159,3 +159,5 @@ https://analyst1.com/file-assets/RANSOM-MAFIA-ANALYSIS-OF-THE-WORLD%E2%80%99S-FI
 https://www.securityweek.com/cyberattack-causes-chaos-costa-rica-government-systems
 
 https://www.securityweek.com/new-black-basta-ransomware-possibly-linked-conti-group
+
+https://www.microsoft.com/security/blog/2022/05/09/ransomware-as-a-service-understanding-the-cybercrime-gig-economy-and-how-to-protect-yourself/
