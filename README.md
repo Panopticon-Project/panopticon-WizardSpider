@@ -163,3 +163,5 @@ https://www.securityweek.com/new-black-basta-ransomware-possibly-linked-conti-gr
 https://www.microsoft.com/security/blog/2022/05/09/ransomware-as-a-service-understanding-the-cybercrime-gig-economy-and-how-to-protect-yourself/
 
 https://twitter.com/BrettCallow/status/1524387838531301377
+
+https://www.advintel.io/post/hydra-with-three-heads-blackbyte-the-future-of-ransomware-subsidiary-groups
