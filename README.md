@@ -165,3 +165,5 @@ https://www.microsoft.com/security/blog/2022/05/09/ransomware-as-a-service-under
 https://twitter.com/BrettCallow/status/1524387838531301377
 
 https://www.advintel.io/post/hydra-with-three-heads-blackbyte-the-future-of-ransomware-subsidiary-groups
+
+https://www.bleepingcomputer.com/news/security/conti-ransomware-shuts-down-operation-rebrands-into-smaller-units/
