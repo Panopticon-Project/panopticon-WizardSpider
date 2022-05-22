@@ -167,3 +167,7 @@ https://twitter.com/BrettCallow/status/1524387838531301377
 https://www.advintel.io/post/hydra-with-three-heads-blackbyte-the-future-of-ransomware-subsidiary-groups
 
 https://www.bleepingcomputer.com/news/security/conti-ransomware-shuts-down-operation-rebrands-into-smaller-units/
+
+https://www.prodaft.com/resource/detail/ws-wizard-spider-group-depth-analysis
+
+https://securityintelligence.com/posts/itg23-crypters-cooperation-between-cybercriminal-groups/
