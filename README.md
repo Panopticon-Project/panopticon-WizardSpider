@@ -171,3 +171,5 @@ https://www.bleepingcomputer.com/news/security/conti-ransomware-shuts-down-opera
 https://www.prodaft.com/resource/detail/ws-wizard-spider-group-depth-analysis
 
 https://securityintelligence.com/posts/itg23-crypters-cooperation-between-cybercriminal-groups/
+
+https://www.advintel.io/post/discontinued-the-end-of-conti-s-brand-marks-new-chapter-for-cybercrime-landscape
