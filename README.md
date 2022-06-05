@@ -175,3 +175,5 @@ https://securityintelligence.com/posts/itg23-crypters-cooperation-between-cyberc
 https://www.advintel.io/post/discontinued-the-end-of-conti-s-brand-marks-new-chapter-for-cybercrime-landscape
 
 https://therecord.media/linn-county-oregon-data-leak-conti-ransomware/
+
+https://eclypsium.com/2022/06/02/conti-targets-critical-firmware/
