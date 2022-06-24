@@ -179,3 +179,5 @@ https://therecord.media/linn-county-oregon-data-leak-conti-ransomware/
 https://eclypsium.com/2022/06/02/conti-targets-critical-firmware/
 
 https://www.wired.com/story/costa-rica-ransomware-conti/
+
+https://www.group-ib.com/media/conti-armada-report/
