@@ -181,3 +181,5 @@ https://eclypsium.com/2022/06/02/conti-targets-critical-firmware/
 https://www.wired.com/story/costa-rica-ransomware-conti/
 
 https://www.group-ib.com/media/conti-armada-report/
+
+https://www.securityweek.com/leaks-show-conti-ransomware-group-working-firmware-exploits
