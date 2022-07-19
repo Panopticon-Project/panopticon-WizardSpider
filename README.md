@@ -1,5 +1,7 @@
 # panopticon-WizardSpider
 
+https://www.cyjax.com/2022/07/15/who-is-trickbot/
+
 https://www.wired.com/story/trickbot-malware-group-internal-messages/
 
 https://www.bleepingcomputer.com/news/security/taiwanese-apple-and-tesla-contractor-hit-by-conti-ransomware/
