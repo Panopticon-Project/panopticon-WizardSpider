@@ -187,3 +187,5 @@ https://www.group-ib.com/media/conti-armada-report/
 https://www.securityweek.com/leaks-show-conti-ransomware-group-working-firmware-exploits
 
 https://securityintelligence.com/posts/trickbot-group-systematically-attacking-ukraine/
+
+https://www.advintel.io/post/anatomy-of-attack-truth-behind-the-costa-rica-government-ransomware-5-day-intrusion
