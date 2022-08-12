@@ -189,3 +189,5 @@ https://www.securityweek.com/leaks-show-conti-ransomware-group-working-firmware-
 https://securityintelligence.com/posts/trickbot-group-systematically-attacking-ukraine/
 
 https://www.advintel.io/post/anatomy-of-attack-truth-behind-the-costa-rica-government-ransomware-5-day-intrusion
+
+https://www.wired.com/story/conti-group-ransomware-members-reward-target/
