@@ -191,3 +191,5 @@ https://securityintelligence.com/posts/trickbot-group-systematically-attacking-u
 https://www.advintel.io/post/anatomy-of-attack-truth-behind-the-costa-rica-government-ransomware-5-day-intrusion
 
 https://www.wired.com/story/conti-group-ransomware-members-reward-target/
+
+https://www.justice.gov/opa/pr/alleged-russian-money-launderer-extradited-netherlands-us
