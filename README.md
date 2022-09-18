@@ -193,3 +193,5 @@ https://www.advintel.io/post/anatomy-of-attack-truth-behind-the-costa-rica-gover
 https://www.wired.com/story/conti-group-ransomware-members-reward-target/
 
 https://www.justice.gov/opa/pr/alleged-russian-money-launderer-extradited-netherlands-us
+
+https://therecord.media/bitdefender-europol-swiss-police-publish-decryptor-for-lockergoga-ransomware/
