@@ -195,3 +195,5 @@ https://www.wired.com/story/conti-group-ransomware-members-reward-target/
 https://www.justice.gov/opa/pr/alleged-russian-money-launderer-extradited-netherlands-us
 
 https://therecord.media/bitdefender-europol-swiss-police-publish-decryptor-for-lockergoga-ransomware/
+
+https://twitter.com/VK_Intel/status/1557003350541242369 - interesting but I can't verify
