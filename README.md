@@ -197,3 +197,5 @@ https://www.justice.gov/opa/pr/alleged-russian-money-launderer-extradited-nether
 https://therecord.media/bitdefender-europol-swiss-police-publish-decryptor-for-lockergoga-ransomware/
 
 https://twitter.com/VK_Intel/status/1557003350541242369 - interesting but I can't verify
+
+https://www.securityweek.com/free-decryptors-released-bianlian-megacortex-ransomware
